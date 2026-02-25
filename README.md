@@ -6,7 +6,7 @@ In this workshop, I created an LSOA-level dataset for London. I merged London Cr
 
 > A Lower-layer Super Output Area (LSOA) is a small geographic unit used for statistical analysis in England and Wales [^1].
 
-This project involves data construction, cleaning, visualization, modeling, model comparison, and interpretation. I also create visualizations and conduct linear regression analyses. I assess how deprivation is associated with violence, both independently and controlling for population density.   
+This project involves data construction, cleaning, visualization, modeling, model comparison, and interpretation. I assess how deprivation is associated with violence, both independently and controlling for population density.   
 
 ### File Information
 - **data:** (folder)
